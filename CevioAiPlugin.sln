@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CevioAiPlugin", "CevioAiPlugin\CevioAiPlugin.csproj", "{B40DF146-400E-41B4-BF29-B7967DAF0D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CevioAiSave", "CevioAiSave\CevioAiSave.csproj", "{04369EAF-626E-4C68-9AEE-393468F962C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40DF146-400E-41B4-BF29-B7967DAF0D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40DF146-400E-41B4-BF29-B7967DAF0D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40DF146-400E-41B4-BF29-B7967DAF0D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40DF146-400E-41B4-BF29-B7967DAF0D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04369EAF-626E-4C68-9AEE-393468F962C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04369EAF-626E-4C68-9AEE-393468F962C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04369EAF-626E-4C68-9AEE-393468F962C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04369EAF-626E-4C68-9AEE-393468F962C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEB7FF7-2F4E-4D7A-850A-A9F4EB387AC6}
+	EndGlobalSection
+EndGlobal
